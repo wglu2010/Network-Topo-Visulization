@@ -1,10 +1,12 @@
 # Network-Topo-Visulization
 Visualize your network topology based on retrieved LLDP information(Juniper router only)
 
-Step1: Prep the host files that contains the router name and its IP address
+Step1: Prep the host files that contains the router name and its IP address, one host per line, if you want to skip a host just comment out
+
 cat host_python_ccl 
+
 router1-name ip1
-router2-name ip3
+
 ...
 ...
 
