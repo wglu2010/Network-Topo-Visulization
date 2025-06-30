@@ -13,6 +13,7 @@ router1-name ip1
 Step2: running the python script to collect the LLDP output and render into following text table:
 python ./get_lldp_ccl.py
 cat lldp_output_ccl.txt
+
 <img width="321" alt="Screenshot 2025-06-30 at 10 24 37 AM" src="https://github.com/user-attachments/assets/9e4c1a60-4c7e-4861-81df-2f7dd5496aca" />
 
 
